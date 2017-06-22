@@ -11,4 +11,6 @@
 
 [The Python Tutorial — Python 3.6.2rc1 documentationl](https://docs.python.org/3/tutorial/)
 
+[python变量（全局变量，局部变量，类变量，实例变量）](http://www.imooc.com/article/14652)
+
 [Python Plotting for Exploratory Analysis](http://pythonplot.com/#stacked-bar-chart)
