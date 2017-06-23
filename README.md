@@ -2,6 +2,8 @@
 
 [Installing Python 3 on Windows](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/win/)
 
+[How To Install Python 3 and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
+
 # python tutorial
 
 [Google's Python Class]()
