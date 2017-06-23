@@ -1,3 +1,7 @@
+# install python
+
+[Installing Python 3 on Windows](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/win/)
+
 # python tutorial
 
 [Google's Python Class]()
