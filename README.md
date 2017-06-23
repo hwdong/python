@@ -1,6 +1,8 @@
 # install python
 
-[Installing Python 3 on Windows](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/win/)   [How to Install Python on Windows](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
+[Installing Python 3 on Windows](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/win/) 
+
+[How to Install Python on Windows](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
 
 [How To Install Python 3 and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
