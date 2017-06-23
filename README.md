@@ -22,3 +22,7 @@
 [python变量（全局变量，局部变量，类变量，实例变量）](http://www.imooc.com/article/14652)
 
 [Python Plotting for Exploratory Analysis](http://pythonplot.com/#stacked-bar-chart)
+
+# AQ
+
+[如何理解Python装饰器？](https://www.zhihu.com/question/26930016)
