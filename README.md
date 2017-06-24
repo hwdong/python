@@ -34,6 +34,12 @@
 
 [Python Plotting for Exploratory Analysis](http://pythonplot.com/#stacked-bar-chart)
 
+# numpy tutorial
+
+[Quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+
+[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+
 # AQ
 
 [如何理解Python装饰器？](https://www.zhihu.com/question/26930016)  
