@@ -36,7 +36,9 @@
 
 # AQ
 
-[如何理解Python装饰器？](https://www.zhihu.com/question/26930016)
+[如何理解Python装饰器？](https://www.zhihu.com/question/26930016)  
+
+[Transporting vectorized Matlab code to python, numpy] (https://stackoverflow.com/questions/24439995/transporting-vectorized-matlab-code-to-python-numpy)
 
 # examples
   
