@@ -30,6 +30,8 @@
 
 [python变量（全局变量，局部变量，类变量，实例变量）](http://www.imooc.com/article/14652)
 
+[Matplotlib 教程](https://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
+
 [Python Plotting for Exploratory Analysis](http://pythonplot.com/#stacked-bar-chart)
 
 # AQ
