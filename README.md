@@ -9,7 +9,7 @@
 
    pip install pandas
    
-   pip install test
+   pip install pytest
    
 详情见:[Installing Packages](https://packaging.python.org/tutorials/installing-packages/). 
 
