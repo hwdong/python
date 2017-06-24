@@ -9,7 +9,7 @@
 
    pip install pandas
    
-   pip install pytest
+   pip install -U pytest
    
 详情见:[Installing Packages](https://packaging.python.org/tutorials/installing-packages/). 
 
