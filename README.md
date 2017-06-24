@@ -44,7 +44,7 @@
 
 [Numpy Tutorial](http://www.python-course.eu/numpy.php)
 
-[Python Numpy Array Tutorial] (https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.SOjAQrE)
+[Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.SOjAQrE)
 
 [Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial)
 
