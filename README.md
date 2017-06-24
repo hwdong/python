@@ -38,7 +38,9 @@
 
 [Quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
-[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
+
+[Python Numpy Array Tutorial] (https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.SOjAQrE)
 
 # AQ
 
