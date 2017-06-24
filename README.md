@@ -6,6 +6,8 @@
 
 [How To Install Python 3 and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
+[Installing Packages](https://packaging.python.org/tutorials/installing-packages/)
+
 # python tutorial
 
 [Google's Python Class]()
