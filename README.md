@@ -40,9 +40,13 @@
 
 [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
 
-[NumPy Tutorial](https://www.tutorialspoint.com/numpy/)
+[NumPy Tutorial](https://www.tutorialspoint.com/numpy/) 
+
+[Numpy Tutorial](http://www.python-course.eu/numpy.php)
 
 [Python Numpy Array Tutorial] (https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.SOjAQrE)
+
+[Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial)
 
 # AQ
 
