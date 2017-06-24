@@ -62,6 +62,6 @@
   
   [some machine learning algorithm from chyikwei](https://github.com/chyikwei/MachineLearning) 
 
-# other
+# Books
 
-[Python相关英文新书下载链接](http://www.jianshu.com/p/b494589eee52)
+[Python相关英文新书下载链接](http://www.jianshu.com/p/b494589eee52) including books such as "Modular Programming with Python",...
