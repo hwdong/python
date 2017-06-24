@@ -40,4 +40,6 @@
   
   [Logistic regression from scratch in Python](https://github.com/perborgen/LogisticRegression)
   
+  [Logistic Regression classifier written in python](https://github.com/aceveggie/LogisticRegression)
+  
   [some machine learning algorithm from chyikwei](https://github.com/chyikwei/MachineLearning) 
