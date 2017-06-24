@@ -35,3 +35,7 @@
 # AQ
 
 [如何理解Python装饰器？](https://www.zhihu.com/question/26930016)
+
+# examples
+
+  [some machine learning algorithm from chyikwei](https://github.com/chyikwei/MachineLearning) 
