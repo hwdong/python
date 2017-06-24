@@ -5,7 +5,7 @@
 [How to Install Python on Windows](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
 
 在window下下载python安装包并安装（会自动安装pip和setuptools，如没有可以[下载pip](https://bootstrap.pypa.io/get-pip.py
-)然后安装：python get-pip.py）,然后添加脚本(如C:\Python27\Scripts)到系统路径里。详情见:[Installing Packages](https://packaging.python.org/tutorials/installing-packages/)
+)然后安装：python get-pip.py）,然后添加脚本(如C:\Python27\Scripts)到系统路径里。详情见:[Installing Packages](https://packaging.python.org/tutorials/installing-packages/). 以后可以用pip安装package了，如 ：pip install pandas
 
 [How To Install Python 3 and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
