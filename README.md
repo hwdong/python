@@ -40,6 +40,8 @@
 
 [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
 
+[NumPy Tutorial](https://www.tutorialspoint.com/numpy/)
+
 [Python Numpy Array Tutorial] (https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.SOjAQrE)
 
 # AQ
