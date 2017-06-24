@@ -61,3 +61,7 @@
   [Logistic Regression classifier written in python](https://github.com/aceveggie/LogisticRegression)
   
   [some machine learning algorithm from chyikwei](https://github.com/chyikwei/MachineLearning) 
+
+# other
+
+[Python相关英文新书下载链接](http://www.jianshu.com/p/b494589eee52)
