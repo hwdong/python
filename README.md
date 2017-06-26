@@ -46,7 +46,9 @@
 
 [Python Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.SOjAQrE)
 
-[Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial)
+[Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial) 
+
+[Numpy 学习](https://www.zybuluo.com/tankle/note/51606)
 
 # QA
 
