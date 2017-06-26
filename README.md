@@ -48,11 +48,13 @@
 
 [Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial)
 
-# AQ
+# QA
 
 [如何理解Python装饰器？](https://www.zhihu.com/question/26930016)  
 
 [Transporting vectorized Matlab code to python, numpy] (https://stackoverflow.com/questions/24439995/transporting-vectorized-matlab-code-to-python-numpy)
+
+[Iterating Over Arrays](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html#arrays-nditer)
 
 # examples
   
