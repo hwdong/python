@@ -58,9 +58,15 @@
 
 [Iterating Over Arrays](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html#arrays-nditer)   [NumPy - 数组上的迭代](https://wizardforcel.gitbooks.io/ts-numpy-tut/content/11.html)  [ nditer —— numpy.ndarray 多维数组的迭代](http://blog.csdn.net/lanchunhui/article/details/55657135)
 
+
+# cython, ctypes
 [Using C++ in Cython](https://cython.readthedocs.io/en/latest/src/userguide/wrapping_CPlusPlus.html)
 
 [Septicmk 如何使用Cython](http://blog.septicmk.com/Python/use-Cython.html)
+
+[如何实现 C/C++ 与 Python 的通信？](https://www.zhihu.com/question/23003213)
+
+[Cython 入门教程](https://charlesnord.github.io/2017/03/11/cython-tuto/)
 
 # examples
   
