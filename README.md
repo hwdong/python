@@ -58,6 +58,8 @@
 
 [Iterating Over Arrays](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html#arrays-nditer)   [NumPy - 数组上的迭代](https://wizardforcel.gitbooks.io/ts-numpy-tut/content/11.html)  [ nditer —— numpy.ndarray 多维数组的迭代](http://blog.csdn.net/lanchunhui/article/details/55657135)
 
+[Using C++ in Cython](https://cython.readthedocs.io/en/latest/src/userguide/wrapping_CPlusPlus.html)
+
 # examples
   
   [Logistic regression from scratch in Python](https://github.com/perborgen/LogisticRegression)
