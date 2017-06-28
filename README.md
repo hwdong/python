@@ -66,7 +66,9 @@
 
 [如何实现 C/C++ 与 Python 的通信？](https://www.zhihu.com/question/23003213)
 
-[Cython 入门教程](https://charlesnord.github.io/2017/03/11/cython-tuto/)
+[Cython 入门教程](https://charlesnord.github.io/2017/03/11/cython-tuto/) 
+
+[15.1 使用ctypes访问C代码](https://python3-cookbook.readthedocs.io/zh_CN/latest/c15/p01_access_ccode_using_ctypes.html)
 
 # examples
   
