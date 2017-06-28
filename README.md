@@ -58,6 +58,8 @@
 
 [Iterating Over Arrays](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html#arrays-nditer)   [NumPy - 数组上的迭代](https://wizardforcel.gitbooks.io/ts-numpy-tut/content/11.html)  [ nditer —— numpy.ndarray 多维数组的迭代](http://blog.csdn.net/lanchunhui/article/details/55657135)
 
+[Python 分发工具初探之 setuptools](http://blog.luoyuanhang.com/2016/03/23/Python-%E5%88%86%E5%8F%91%E5%B7%A5%E5%85%B7%E5%88%9D%E6%8E%A2%E4%B9%8B-setuptools/)
+
 
 # cython, ctypes
 [Using C++ in Cython](https://cython.readthedocs.io/en/latest/src/userguide/wrapping_CPlusPlus.html)
