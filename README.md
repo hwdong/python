@@ -60,6 +60,8 @@
 
 [Using C++ in Cython](https://cython.readthedocs.io/en/latest/src/userguide/wrapping_CPlusPlus.html)
 
+[Septicmk 如何使用Cython](http://blog.septicmk.com/Python/use-Cython.html)
+
 # examples
   
   [Logistic regression from scratch in Python](https://github.com/perborgen/LogisticRegression)
