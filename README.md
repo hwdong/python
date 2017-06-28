@@ -70,6 +70,8 @@
 
 [15.1 使用ctypes访问C代码](https://python3-cookbook.readthedocs.io/zh_CN/latest/c15/p01_access_ccode_using_ctypes.html)
 
+[Using Python ctypes to link C/C++ library](http://bigbang.waterlin.org/bang/using-python-ctypes-to-link-cpp-library/) 
+
 [ctypes — A foreign function library for Python](https://docs.python.org/2/library/ctypes.html)
 # examples
   
