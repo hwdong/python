@@ -70,6 +70,7 @@
 
 [15.1 使用ctypes访问C代码](https://python3-cookbook.readthedocs.io/zh_CN/latest/c15/p01_access_ccode_using_ctypes.html)
 
+[ctypes — A foreign function library for Python](https://docs.python.org/2/library/ctypes.html)
 # examples
   
   [Logistic regression from scratch in Python](https://github.com/perborgen/LogisticRegression)
