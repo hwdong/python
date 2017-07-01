@@ -1,9 +1,5 @@
 # install python
 
-[Installing Python 3 on Windows](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/win/) 
-
-[How to Install Python on Windows](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
-
 在window下下载python安装包并安装（会自动安装pip和setuptools，如没有可以[下载pip](https://bootstrap.pypa.io/get-pip.py
 )然后安装：python get-pip.py）,然后添加脚本(如C:\Python27\Scripts或C:\Python36\Scripts)到系统路径里。以后可以用pip安装package了，如 ：
 
@@ -12,6 +8,13 @@
    pip install -U pytest
    
 详情见:[Installing Packages](https://packaging.python.org/tutorials/installing-packages/). 
+
+[在同一台电脑下如何进行 Python 2 与 3 的切换？](https://www.zhihu.com/question/22846291)
+
+
+[Installing Python 3 on Windows](https://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/win/) 
+
+[How to Install Python on Windows](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
 
 [How To Install Python 3 and Set Up a Local Programming Environment on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
 
