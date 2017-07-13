@@ -59,6 +59,8 @@
 
 [如何理解Python装饰器？](https://www.zhihu.com/question/26930016)  
 
+[generator](https://stackoverflow.com/questions/1756096/understanding-generators-in-python)
+
 [Transporting vectorized Matlab code to python, numpy] (https://stackoverflow.com/questions/24439995/transporting-vectorized-matlab-code-to-python-numpy)
 
 [Iterating Over Arrays](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html#arrays-nditer)   [NumPy - 数组上的迭代](https://wizardforcel.gitbooks.io/ts-numpy-tut/content/11.html)  [ nditer —— numpy.ndarray 多维数组的迭代](http://blog.csdn.net/lanchunhui/article/details/55657135)
