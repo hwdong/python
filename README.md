@@ -60,6 +60,8 @@
 ## Decorator 装饰器
 [如何理解Python装饰器？](https://www.zhihu.com/question/26930016)  
 
+[Improve Your Python: Decorators Explained](https://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/)
+
 [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 
 ## generator 生成器
