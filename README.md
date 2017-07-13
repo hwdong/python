@@ -57,8 +57,10 @@
 
 # QA
 
+## Decorator 装饰器
 [如何理解Python装饰器？](https://www.zhihu.com/question/26930016)  
 
+## generator 生成器
 [generator](https://stackoverflow.com/questions/1756096/understanding-generators-in-python)
 
 [Transporting vectorized Matlab code to python, numpy] (https://stackoverflow.com/questions/24439995/transporting-vectorized-matlab-code-to-python-numpy)
