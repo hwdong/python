@@ -60,6 +60,8 @@
 ## Decorator 装饰器
 [如何理解Python装饰器？](https://www.zhihu.com/question/26930016)  
 
+[装饰器](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386819879946007bbf6ad052463ab18034f0254bf355000)
+
 [Improve Your Python: Decorators Explained](https://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/)
 
 [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
