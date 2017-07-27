@@ -39,6 +39,7 @@
 
 [Python Plotting for Exploratory Analysis](http://pythonplot.com/#stacked-bar-chart)
 
+[http://www.python-course.eu/course.php](http://www.python-course.eu/course.php)
 # numpy tutorial
 
 [Quickstart tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
