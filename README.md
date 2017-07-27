@@ -20,7 +20,7 @@
 
 # python tutorial
 
-[Google's Python Class]()
+[Google's Python Class](https://developers.google.com/edu/python/)
 
 [Tutorial - Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
 
