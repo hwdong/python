@@ -100,6 +100,8 @@
 
 [Python Machine Learning pdf](https://github.com/PlamenStilyianov/Python/blob/master/Python%20Machine%20Learning.pdf)
 
+[流畅的Python](https://jackmk.ctfile.com/fs/14155983-203386385)
+
 [Learning Python](http://stock.ethop.org/pdf/python/Learning%20Python,%205th%20Edition.pdf)
 
 
