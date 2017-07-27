@@ -31,7 +31,9 @@
 
 [Python 2.7教程- 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
-[The Python Tutorial — Python 3.6.2rc1 documentationl](https://docs.python.org/3/tutorial/)
+[The Python Tutorial — Python 3.6.2rc1 documentationl](https://docs.python.org/3/tutorial/) 
+
+[Python官方入门教程](https://docspy3zh.readthedocs.io/en/latest/tutorial/)
 
 [python变量（全局变量，局部变量，类变量，实例变量）](http://www.imooc.com/article/14652)
 
