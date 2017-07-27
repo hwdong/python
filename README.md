@@ -98,6 +98,8 @@
 
 [Python相关英文新书下载链接](http://www.jianshu.com/p/b494589eee52) including books such as "Modular Programming with Python",...
 
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 [Python Machine Learning pdf](https://github.com/PlamenStilyianov/Python/blob/master/Python%20Machine%20Learning.pdf)
 
 [流畅的Python](https://jackmk.ctfile.com/fs/14155983-203386385)  
