@@ -99,6 +99,8 @@
 
 # Books
 
+[python基础教程](https://github.com/huyubing/books-pdf/blob/master/python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+
 [Python相关英文新书下载链接](http://www.jianshu.com/p/b494589eee52) including books such as "Modular Programming with Python",...
 
 [Learn Python the Hard Way](https://github.com/chris-void/pyway/blob/master/Learn%20Python%20The%20Hard%20Way,%203rd%20Edition%20.pdf)
