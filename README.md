@@ -29,7 +29,9 @@
 
 [Learn python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 
-[Python 2.7教程- 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
+[Python 2.7教程- 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) 
+
+[Python Practice Book] (http://anandology.com/python-practice-book/#python-practice-book)
 
 [The Python Tutorial — Python 3.6.2rc1 documentationl](https://docs.python.org/3/tutorial/) 
 
